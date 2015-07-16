@@ -50,21 +50,11 @@
     <Content Include="dos2unix.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="TheCoffeeShop.war">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="installcoffee.sh">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="installcoffee_old.sh">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="LinuxVmWithTomcat.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="LinuxVmWithTomcat.parameters.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="TheCoffeeShop.war" />
+    <Content Include="installcoffee.sh" />
+    <Content Include="installcoffee_old.sh" />
+    <Content Include="LinuxVmWithTomcat.json" />
+    <Content Include="LinuxVmWithTomcat.parameters.json" />
     <Content Include="renamefile.ps1">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
