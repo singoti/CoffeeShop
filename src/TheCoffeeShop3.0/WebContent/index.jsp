@@ -16,7 +16,7 @@
 	<div id="page">
 		<header>
 		<p class="site-title">
-			<a href="">New Nagendra Coffee  Shop</a>
+			<a href="">New Nagendra Coffee Shop</a>
 		</p>
 		<nav>
 		<ul>
