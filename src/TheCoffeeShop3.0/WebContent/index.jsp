@@ -33,7 +33,7 @@
 				<img alt="Featured Product" src="Images/1.jpg" height="300" />
 				<div id="featuredProductInfo">
 					<div id="productInfo">
-						<h2>Cappuccino Regular</h2>
+						<h2>Cappuccino</h2>
 						<p class="price">$3.45</p>
 						<p class="description">Cappuccino</p>
 					</div>
