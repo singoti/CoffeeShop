@@ -52,7 +52,7 @@
 						title="Cappuccino"> <img class="hide-from-desktop"
 							src="Images/1.jpg" alt="Image of Cappuccino" />
 							<div class="productInfo">
-								<h3>Cappuccino</h3>
+								<h3>Cappuccino Regular</h3>
 								<img class="product-image hide-from-mobile" src="Images/1.jpg"
 									alt="Image of Cappuccino" />
 								<p class="description">Cappuccino</p>
